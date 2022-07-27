@@ -23,17 +23,23 @@ Facebook: [@CDSBMexico](https://www.facebook.com/CDSBMexico)
 Página web: https://comunidadbioinfo.github.io
 
 ---
-# Nuestros instructores
+class: center
+
+# ¿Quiénes somos?
+
+La comunidad de desarrolladores de Software en Bioinformática, nace de la inquietud por incentivar la participación y colaboración de gente especializada en Bioinformática y Genómica, para contribuir o emprender en el desarrollo de software libre a nivel internacional.
 
 ```{r,echo=FALSE,out.width='56%',fig.align='center'}
-knitr::include_graphics("img/instructors.png")
+knitr::include_graphics("img/somos.png")
 ```
 
 ---
-# Nuestros ponentes invitados
-<br><br>
-```{r,echo=FALSE,out.width='55%',fig.align='center'}
-knitr::include_graphics("img/keynotes.png")
+class: center
+
+# Nuestros instructores
+
+```{r,echo=FALSE,out.width='56%',fig.align='center'}
+knitr::include_graphics("img/instructores2022.png")
 ```
 
 ---
@@ -47,7 +53,7 @@ knitr::include_graphics("img/ayudantes.png")
 ---
 # Materiales
 
-.center[https://comunidadbioinfo.github.io/cdsb2021_workflows/]
+.center[https://github.com/ComunidadBioInfo/cdsb2022]
 
 ```{r,echo=FALSE,out.height='100%'}
 knitr::include_url("https://comunidadbioinfo.github.io/cdsb2022/")
@@ -70,7 +76,7 @@ knitr::include_graphics("img/slack.png")
 Canales importantes:
 - Bienvenida
 - General
-- cdsb2021_workflows
+- cdsb2022
 ]
 
 ---
